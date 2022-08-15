@@ -46,4 +46,4 @@
         prime(n);
      
         return 0;
-    }# codeforces_function
+    }
